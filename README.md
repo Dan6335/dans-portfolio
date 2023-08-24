@@ -17,7 +17,7 @@ The ability to carry dragons on your shoulders:
 Dragon variants and the ability to equipt armor:
 ![2023-07-02_17](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/21a57cbb-dda7-40c8-89c5-b7629eb4ee91)
 
-Dragon sleeping particle:
+Dragon sleep particle and a sleep system:
 ![2023-07-05_14 35 55](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/a38d35bf-8615-4912-84ea-7513fc77192b)
 
 A dragon gliding through the air:
