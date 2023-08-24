@@ -1,4 +1,4 @@
-![2023-05-14_15 49 14](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/c9ef9cd0-e3d8-4e9b-b991-64200034dc94)# Dan's Portfolio
+# Dan's Portfolio
 
 **Mods I've worked on:**
 Bluedude Dragons | Owners: me and a friend | Minecraft version: 1.18.2
