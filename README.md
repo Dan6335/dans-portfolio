@@ -4,6 +4,8 @@
 - Bluedude Dragons | Owners: me and a friend | Minecraft version: 1.18.2
 - Tales of Varthrimore | Owner: Kundzio | Minecraft version: 1.18.2
 - Dimensional Hybrids | Owner: CaptainBlaziken | Minecraft version: 1.20
+- Berks Dragon Academy | Owners: Servile and Ethan | Minecraft version: 1.18.2
+- I am also doing some small work for spectral studios
 
 **Some images and video's of the stuff I've coded:**
 
