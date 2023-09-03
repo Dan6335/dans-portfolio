@@ -1,4 +1,5 @@
 # Dan's Portfolio
+This will be updated as I progress with my different projects.
 
 **Mods I've worked on/am working on:**
 - Bluedude Dragons | Owners: me and a friend | Minecraft version: 1.18.2
