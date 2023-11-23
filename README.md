@@ -41,9 +41,3 @@ The gui for the twintail entity:
 The structures for two of the entities:
 ![2023-07-28_15 50 40](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/dba9ad0a-6708-469e-9aab-bba0252d7d31)
 ![2023-07-28_15 38 10](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/c5942f11-20ea-4107-af45-dcec4654e1fb)
-
-**Dimensional Hybrids:**
-
-The wisp entity attacking the player with a fireball:
-![2023-05-14_15 49 14](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/c81d94f2-70d3-421d-adb9-ab5583435710)
-
