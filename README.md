@@ -6,6 +6,7 @@ This will be updated as I progress with my different projects.
 - Tales of Varthrimore | Owner: Kundzio | Minecraft version: 1.18.2
 - Dimensional Hybrids | Owner: CaptainBlaziken | Minecraft version: 1.20
 - Berks Dragon Academy | Owners: Servile and Ethan | Minecraft version: 1.18.2
+- Runic Isles | Owners: Yumi, MsChomper, Nemesis and Blue The Penqueen | Minecraft Version: 1.20.1
 - I am also doing some small work for spectral studios for their youtube channel and the mod version is also for 1.18.2
 
 **Some images and video's of the stuff I've coded:**
