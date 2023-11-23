@@ -2,7 +2,7 @@
 This will be updated as I progress with my different projects.
 
 **Mods I've worked on/am working on:**
-- Bluedude Dragons | Owners: me and a friend | Minecraft version: 1.18.2
+- Bluedude Dragons | Owners: Dan(me) and Derpy Steven | Minecraft version: 1.18.2
 - Tales of Varthrimore | Owner: Kundzio | Minecraft version: 1.18.2
 - Dimensional Hybrids | Owner: CaptainBlaziken | Minecraft version: 1.20
 - Berks Dragon Academy | Owners: Servile and Ethan | Minecraft version: 1.18.2
