@@ -10,7 +10,7 @@ This will be updated as I progress with my different projects.
 
 **Some images and video's of the stuff I've coded:**
 
-**Bluedude Dragons:**
+# **Bluedude Dragons:**
 
 The ability to carry dragons on your shoulders:
 ![2023-07-23_12 21 38](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/cf0f6415-4557-49a1-91e9-8aeb75246da4)
@@ -41,7 +41,7 @@ The GUI for that you can open for the dragons:
 ![2023-09-01_11 11 35](https://github.com/Dan6335/dans-portfolio/assets/68448043/a7078c7b-1689-4243-baa5-03c22dd6c132)
 
 
-**Tales of Varthimore:**
+# **Tales of Varthimore:**
 
 The pupfish entity and some of its variations:
 ![2023-07-28_16 11 26](https://github.com/Dan6335/dans-portfolio.github.io/assets/68448043/9a9c9522-467d-4b5c-8b5a-5735bf8a7660)
