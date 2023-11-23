@@ -33,6 +33,14 @@ https://www.youtube.com/watch?v=UwkDghn3Cuw
 Some of the AI for the dragons in the mod:
 https://youtu.be/GRSgS3vnxrc?si=zYDVZjyAwyWaidGl
 
+Two of the nests for the dragons in the mod that spawn in their respective biomes:
+![2023-09-27_17 18 15](https://github.com/Dan6335/dans-portfolio/assets/68448043/dc4f2345-2eb2-4526-bb69-eff738565587)
+![2023-09-27_17 15 54](https://github.com/Dan6335/dans-portfolio/assets/68448043/e74cf2f5-0eaf-40a5-b103-ff997ee300ec)
+
+The GUI for that you can open for the dragons:
+![2023-09-01_11 11 35](https://github.com/Dan6335/dans-portfolio/assets/68448043/a7078c7b-1689-4243-baa5-03c22dd6c132)
+
+
 **Tales of Varthimore:**
 
 The pupfish entity and some of its variations:
