@@ -30,6 +30,9 @@ Different scales for the different ages of the dragons:
 A dragon attacking a player and inflicting an effect when it hits you:
 https://www.youtube.com/watch?v=UwkDghn3Cuw
 
+Some of the AI for the dragons in the mod:
+https://youtu.be/GRSgS3vnxrc?si=zYDVZjyAwyWaidGl
+
 **Tales of Varthimore:**
 
 The pupfish entity and some of its variations:
